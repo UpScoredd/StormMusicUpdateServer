@@ -1,4 +1,4 @@
-## Storm Figg's Music Mod V1.0.0
+## Storm Figg's Music Mod V0.7
 - Inital Release (X.XX.24)
 
 ### Previous Changelogs
